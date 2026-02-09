@@ -131,3 +131,14 @@ This work is intended for:
 Licensing and contribution guidelines will be defined after protocol stabilization.
 
 Discussion and review are welcome once the initial specification is complete.
+
+---
+
+## Architecture
+
+The Functional AGI Protocol is defined as a layered cognitive system with governance enforced
+at interface boundaries.
+
+A canonical architecture diagram is available in:
+- `diagrams/functional-agi-architecture.png`
+
