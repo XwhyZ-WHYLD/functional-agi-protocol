@@ -86,9 +86,12 @@ Subsequent documents will cover:
 
 - ---
 
+---
+
 ## Canonical Architecture Diagram
 
 ![Functional AGI Protocol – Canonical Architecture](../diagrams/functional-agi-architecture.png)
 
 This diagram represents the authoritative architectural view of the Functional AGI Protocol,
-including cognitive layers, governance interfaces, and environment boundaries.
+including cognitive layers, governance enforcement at interface boundaries, and environment interaction.
+
