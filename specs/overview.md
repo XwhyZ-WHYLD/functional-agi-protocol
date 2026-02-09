@@ -83,3 +83,12 @@ Subsequent documents will cover:
 - Schema definitions
 - Threat and failure models
 - Deployment validation criteria
+
+- ---
+
+## Canonical Architecture Diagram
+
+![Functional AGI Protocol – Canonical Architecture](../diagrams/functional-agi-architecture.png)
+
+This diagram represents the authoritative architectural view of the Functional AGI Protocol,
+including cognitive layers, governance interfaces, and environment boundaries.
